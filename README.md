@@ -1,2 +1,2 @@
 # ram_cleaner
-RAM cache cleaner
+One can specify script main function running frequence.
