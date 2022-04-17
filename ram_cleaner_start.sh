@@ -1,4 +1,4 @@
-echo "Enter the period for memory cleaning in seconds:"
+sudo sh -c 'echo "Enter the period for memory cleaning in seconds:"'
 read PERIOD
 
 notify() {
